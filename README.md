@@ -1,4 +1,4 @@
-# 4th Java Learning Path - Java Collection
+# 5th Java Learning Path - Java Collection
 
 ## Agenda
 
